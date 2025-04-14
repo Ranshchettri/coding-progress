@@ -1,0 +1,19 @@
+#navbar{
+    height: 60px;
+    background-color: rgba(000, 000, 255);
+}
+
+#logo{
+
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 130px;
+}
+button{
+    size: 10px;
+    background-color:rgb(250, 250, 250);
+}

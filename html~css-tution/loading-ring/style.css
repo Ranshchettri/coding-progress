@@ -1,0 +1,24 @@
+#loder
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid rgb(255, 255, 255);
+    border-top: 20px solid rgb(10, 10, 10);
+    
+    animation: spinAnimate 2s ease-in-out 0s  infinite normal;
+}
+
+
+@keyframes spinAnimate 
+{
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}   
+
+

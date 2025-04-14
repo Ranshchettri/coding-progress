@@ -1,0 +1,13 @@
+#cross{
+    border-radius: 7%;
+    height: 320px;
+    width: 118px;
+    background-color: black;
+}
+div{
+   
+  border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 8px;
+}

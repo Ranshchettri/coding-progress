@@ -1,0 +1,19 @@
+#navbar{
+    height: 40px;
+    background-color: rgb(2, 2, 2);
+}
+
+#logo{
+
+    color: rgb(225, 172, 25);
+    font-size: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 175px;
+}
+button{
+    size: 10px;
+    background-color:rgb(225, 172, 25);
+}

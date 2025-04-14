@@ -1,0 +1,63 @@
+
+
+#Navbar{
+    height:45px;    
+}
+
+a{
+
+    
+    margin-right: 180px;
+    padding-top: 50px;
+ 
+    text-align: center;
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+}
+
+button{
+    text-decoration: none;
+   background-color:rgb(245, 245, 245);
+   border-radius:10%;
+   color:rgb(0, 0, 0);
+   text-decoration: none;
+   
+}
+
+input{
+    border-radius:10px;
+
+}
+
+
+#logo{
+    font-size:25px;
+    text-align: center;
+    margin-left: 10px;
+    color:rgb(255, 123, 35)
+
+}
+
+
+#card-1{
+    width: 1225px;
+    height: 250px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 0px;
+    text-align: center;
+    margin-right: 180px;
+
+    padding: 20px;
+    margin-top: 50px;
+    /* margin-bottom: 20px; */
+}
+
+#chil-1{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(80, 79, 79);
+    border-radius: 0px;
+    padding: 50px;
+    margin-top: 500px;
+   
+}
