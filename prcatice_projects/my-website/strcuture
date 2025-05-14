@@ -1,0 +1,20 @@
+my_website/
+│
+├── index.html         (Home Page)
+├── about.html         (About Page)
+├── services.html      (Services Page)
+├── contact.html       (Contact Page)
+│
+├── css/
+│   └── style.css      (One shared CSS file)
+│
+├── js/
+│   └── script.js      (For common JS like slider if needed)
+│
+├── images/
+│   └── bg1.jpg
+│   └── bg2.jpg
+│   └── bg3.jpg
+│   (Background images for the slider)
+│
+└── README.txt         (optional: you can explain project here)

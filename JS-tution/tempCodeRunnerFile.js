@@ -1,1 +1,1 @@
-        let purchase2=20;
+Num()

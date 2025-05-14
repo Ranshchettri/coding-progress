@@ -1,15 +1,15 @@
 
 
 #Navbar{
-    height:45px;    
+    height:45px;  
+    justify-content: left;
+    background-color: gray;  
 }
 
 a{
-
-    
     margin-right: 180px;
     padding-top: 50px;
- 
+    font-size:larger;
     text-align: center;
     color:rgb(0, 0, 0);
     text-decoration:none;
@@ -19,15 +19,16 @@ button{
     text-decoration: none;
    background-color:rgb(245, 245, 245);
    border-radius:10%;
+   text-decoration: none;
    color:rgb(0, 0, 0);
    text-decoration: none;
    
 }
 
-input{
-    border-radius:10px;
+/* input{
+    border-radius:5px;
 
-}
+} */
 
 
 #logo{
@@ -42,14 +43,12 @@ input{
 #card-1{
     width: 1225px;
     height: 250px;
-    background-color: rgb(245, 245, 245);
     border-radius: 0px;
     text-align: center;
-    margin-right: 180px;
-
+    margin-right: 90px;
     padding: 20px;
-    margin-top: 50px;
-    /* margin-bottom: 20px; */
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 #chil-1{
@@ -60,4 +59,15 @@ input{
     padding: 50px;
     margin-top: 500px;
    
+}
+
+#card-2{
+    width: 1225px;
+    height: 250px;
+    border-radius: 0px;
+    text-align: center;
+    margin-right: 90px;
+    padding: 20px;
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
