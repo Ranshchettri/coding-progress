@@ -18,7 +18,6 @@ function App() {
   };
   let [count, setCount] = useState(2); // state managemenet process*****************************
   let displayData = () => {
-    setCount(count+1); // state managemenet process*****************************
   };
 
   return (
