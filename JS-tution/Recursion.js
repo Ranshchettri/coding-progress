@@ -22,6 +22,7 @@ function recur(num) {
   }
 
   else {
+    console.log("hello wolrd, how are you");
     recur(num - 3);
 
   }
